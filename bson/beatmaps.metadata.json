@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"osustats.beatmaps"},{"v":2,"unique":true,"key":{"beatmap_id":1},"name":"beatmap_id_1","ns":"osustats.beatmaps","background":true}],"uuid":"8b3ec87d6c16431cba3938b5da9c1b51"}

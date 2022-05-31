@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"osustats.usersnapshots"},{"v":2,"unique":true,"key":{"user_id":1,"server":1,"date":1},"name":"user_id_1_server_1_date_1","ns":"osustats.usersnapshots","background":true}],"uuid":"f1fb93d9c6d747728486b40bff62f7f1"}
